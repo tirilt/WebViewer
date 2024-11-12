@@ -1,5 +1,2 @@
-webviewer-modal
-===============================================
-Webviewer Modal
-
-Component Authors, provide some documentation for your users here!
+# WebViewer
+Trying to instantiate WebViewer as a webcomponent in a ServiceNow Custom Component. 
