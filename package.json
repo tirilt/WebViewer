@@ -1,0 +1,29 @@
+{
+  "name": "webviewer-modal",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Webviewer Modal",
+  "keywords": [
+    "ServiceNow",
+    "Next Experience UI Component",
+    "webviewer-modal"
+  ],
+  "readme": "./README.md",
+  "engines": {
+    "node": ">=14"
+  },
+  "module": "src/index.js",
+  "dependencies": {
+    "@pdftron/webviewer": "^11.0.0",
+    "@servicenow/now-button": "^19.8.2-ecd",
+    "@servicenow/now-modal": "^19.8.2-ecd",
+    "@servicenow/sass-kit": "latest",
+    "@servicenow/ui-core": "24.1.1",
+    "@servicenow/ui-effect-http": "24.1.1",
+    "@servicenow/ui-renderer-snabbdom": "24.1.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.18.9",
+    "sass": "1.53.0"
+  }
+}
